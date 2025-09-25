@@ -2,7 +2,7 @@
 - 🔭 I’m currently building a ML model to automate administrative tasks
 - 💻 Currently learning about cloud technologies 
 - 📈 I recently built an educational trading platform to help young people like me learn more about trading and capital markets. Check it out [here](https://siminvestplatform.netlify.app/login)
-- 💡 Fun fact: I am fluent in 3 languages and I am very good at memorizing flags and capital cities.
+- 💡 Fun fact: I can speak 3 languages and I am very good at memorizing flags and capital cities.
  
 ## Tech Stack
 ### 💻 Languages & Frameworks
